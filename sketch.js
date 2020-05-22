@@ -3,7 +3,7 @@ var col = "white"
 var bullets = [];
 var enemies = [];
 var laser;
-var life = 10;
+var life = 100;
 var line1;
 var counter = 0;
 var state = 0;
